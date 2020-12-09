@@ -1,5 +1,3 @@
 #!/bin/bash
-df -h
-hi sandeep 
-hi kmm
-free -m
+touch f1 f2 f3
+echo "your file were created successfully"
