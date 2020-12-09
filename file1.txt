@@ -2,4 +2,4 @@
 df -h
 hi sandeep 
 hi kmm
-echo "your task is completed"
+free -m
