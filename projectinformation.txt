@@ -1,4 +1,4 @@
-this is our project describs that automated deployment for webapplication
+sandeep  this is our project describs that automated deployment for webapplication
 
 automatic triggering 
 
@@ -10,7 +10,7 @@ automatic triggering
 
 welcome to Devops pollscm deployment
 
-updated by sandeep
+updated by sandeep hi sandy
 
 project information has been updated to 1.3 version
 
