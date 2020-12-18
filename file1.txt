@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir d1
-touch b1 b2
+touch f1 f2
